@@ -1,5 +1,7 @@
 # spring-boot-angular-10
 
+==>Unzip Server.7Z, Client.7z<==
+
 Clieant Side:
 -Add node_modules file
 -check the server url in searchService, It has to be matched
